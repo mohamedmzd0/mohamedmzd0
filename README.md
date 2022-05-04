@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ## I'am mohamed abdelaziz 26 years old
-- ### Native android developer
+- ## I'am mohamed abdelaziz 26 years old 😄
+- ### Native android developer 
 - ### 3 years'Expereice in Android developement
 - ### Developed about 34 native mobile app
 
 # Contact
-  ### Phone & WhatsApp
-  #### 01016912038
-  ### Email 
+  ### 📞 Phone & WhatsApp
+  #### +201016912038
+  ### 📧 Email 
   #### mohamedmzd0@gmail.com
-  ### LinkedIn
+  ### 🔗 LinkedIn
   #### https://www.linkedin.com/in/mohamedabdelazizeldeeb  
 
 # Experience
