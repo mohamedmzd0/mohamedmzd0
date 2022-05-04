@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 - ### 3 years'Expereice in Android developement
 - ### Developed about 34 native mobile app
 
+# Contact
+  ### Phone & WhatsApp
+  #### 01016912038
+  ### Email 
+  #### mohamedmzd0@gmail.com
+  ### LinkedIn
+  #### https://www.linkedin.com/in/mohamedabdelazizeldeeb  
+
 # Experience
 
 - ### Arab Apps 
@@ -46,5 +54,14 @@ Here are some ideas to get you started:
   #### 2015 
   
   
- 
+ # HeadLine
+  - ### MVVM & MVP & MVI
+  - ### Clean Architecture
+  - ### Api & Sockect IO & FireBase
+  - ### Memory Managment
+  - ### Coroutines
+  - ### Navigation components
+  - ### SOLID
+  - ### Depedency Injections
+  - ### Caching 
   
