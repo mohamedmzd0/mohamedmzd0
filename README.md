@@ -15,8 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'am mohamed abdelaziz 26 years old
-- Native android developer
-- 3 years'Expereice in Android developement
-- Developed about 34 native mobile app
+- ## I'am mohamed abdelaziz 26 years old
+- ### Native android developer
+- ### 3 years'Expereice in Android developement
+- ### Developed about 34 native mobile app
 
+# Experience
+
+- ### Arab Apps 
+  #### Sep 2019 - Present
+- ### PithSoft
+  #### Apr 2020 - Present 
+- ### Udacity
+  #### Apr 2018 - Present 
+- ### HubSolutions
+  #### May 2019 - Sep 2019
+- ### 700Apps
+  #### Aug 2017 (internship)
+  
+  # Education
+- ### Benha FCI
+  #### 2018 Graduation(good)
+- ### NTL (Android developer nanodegree)
+  #### 2017 Graduation (first stage)
+- ### MAL (Android development)
+  #### 2016 Graduation (Coart E)
+- ### InnovEgypt (Ideation)
+  #### 2017 Graduation
+- ### Imcan (Java SE)
+  #### 2015 
+  
+  
+ 
+  
