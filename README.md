@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - ## I'am mohamed abdelaziz 26 years old 😄
 - ### Native android developer 
-- ### 3 years'Expereice in Android developement
+- ### 4 years'Expereice in Android developement
 - ### Developed about 34 native mobile app
 
 # Contact
@@ -30,10 +30,12 @@ Here are some ideas to get you started:
 
 # Experience
 
+- ### Rowaad software hous
+  ### sep 2022 - Present
 - ### Arab Apps 
-  #### Sep 2019 - Present
+  #### Sep 2019 - sep 2022
 - ### PithSoft
-  #### Apr 2020 - Present 
+  #### Apr 2020 - sep 2022 
 - ### Udacity
   #### Apr 2018 - Present 
 - ### HubSolutions
