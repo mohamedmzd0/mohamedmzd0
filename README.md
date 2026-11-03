@@ -1,69 +1,168 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmzd0&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmzd0" /> </p>
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-
-<h2> I am Mohamed AbdElaziz, 7+ years experience in mobile development <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+<!-- ================= HEADER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:3DDC84&height=200&section=header&text=Mohamed%20AbdElaziz&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Android%20%E2%80%A2%20Flutter%20%E2%80%A2%20Secure%20Mobile%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Let's Connect <a href="https://www.linkedin.com/in/mohamedabdelazizeldeeb"><b>here</b></a><br>
-or <a href="mailto:mohamedmzd0@gmail.com"><b>email</b></a> me
-or <a href="https://api.whatsapp.com/send?phone=201016912038"><b>WhatsApp</b></a> me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=6%2B+years+building+native+Android+apps;Flutter+with+Bloc%2C+GetX+%26+Clean+Architecture;Hardening+apps+with+Dart+FFI+%2B+C%2B%2B;Founder+%40+Kodly+%E2%80%94+mobile+%26+web+solutions" alt="Typing SVG" />
 
-<i>Happy Coding!</i> 😊
-
-</div>
-
-<h3 align="left">Experience:</h3>
-<ul align="left">
-  <li>📱 <b>Native Android</b> (Kotlin): 6+ years</li>
-  <li>💙 <b>Flutter / Dart</b>: 8+ months</li>
-</ul>
-
-<h3 align="left">Flutter Skills:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Bloc-State%20Management-1389FD?style=flat-square" alt="Bloc"/>
-  <img src="https://img.shields.io/badge/GetX-State%20Management-8A2BE2?style=flat-square" alt="GetX"/>
-  <img src="https://img.shields.io/badge/Dio-Networking-FF6F00?style=flat-square" alt="Dio"/>
-  <img src="https://img.shields.io/badge/Clean-Architecture-2E7D32?style=flat-square" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/Dart%20FFI-Secure%20Native%20Code-C62828?style=flat-square" alt="Dart FFI"/>
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-Native%20Layer-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++"/>
+<p>
+  <a href="https://www.linkedin.com/in/mohamedabdelazizeldeeb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohamedmzd0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://api.whatsapp.com/send?phone=201016912038"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://mohamedmzd0.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<h3 align="left">Android Skills:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52B5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Retrofit-Networking-48B983?style=flat-square" alt="Retrofit"/>
-  <img src="https://img.shields.io/badge/OkHttp-Networking-3E4348?style=flat-square" alt="OkHttp"/>
-  <img src="https://img.shields.io/badge/Navigation-Component-3DDC84?style=flat-square" alt="Navigation Component"/>
-  <img src="https://img.shields.io/badge/WebView-Hybrid-4285F4?style=flat-square" alt="WebView"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=mohamedmzd0&label=Profile%20views&color=1F6FEB&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/mohamedmzd0?label=Followers&style=flat-square&color=3DDC84&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collabs-orange?style=flat-square" alt="Open to work" />
 
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedmzd0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats">
-
-</br>
-</br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</div>
 
 ---
 
-<i>Follow me around the web:</i><br>
+### 👨‍💻 About Me
 
-<a href="https://www.linkedin.com/in/mohamedabdelazizeldeeb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/zezo_eldeeb_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/m7medzez0/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+```kotlin
+object Mohamed : Developer {
+    override val role       = "Senior Mobile Developer"
+    override val location   = "Egypt 🇪🇬"
+    override val experience = mapOf(
+        "Android (Kotlin)" to "6+ yrs",
+        "Flutter (Dart)"   to "8+ mo"
+    )
+    override val focus = listOf(
+        "Clean Architecture",
+        "WebView ↔ Angular hybrid bridges",
+        "Native security (FFI / C++)"
+    )
+    override fun funFact() = "I debug faster with ☕"
+}
+```
+
+---
+
+### 🔭 Currently Working On
+
+| | Project | What |
+|---|---|---|
+| 🚀 | **Kodly** | My software startup — mobile & web apps for businesses |
+| 🛡️ | [**safe-dns**](https://github.com/mohamedmzd0/safe-dns) | Open-source DNS blocker for ads & harmful sites (AdGuard Home + Docker) |
+| 🛒 | **Mahalaty (محلاتي)** | Single & multi-vendor e-commerce app |
+| 🎤 | **Tech talks** | Presentations on Android & Flutter internals |
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,cpp,firebase,angular,ts&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=php,mysql,docker,linux,git,github,postman,unity&perline=8" />
 
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<details>
+<summary><b>📱 Android — click to expand</b></summary>
+<br/>
+
+`Kotlin` · `Coroutines` · `Retrofit` · `OkHttp` · `Navigation Component` · `WebView / JS Bridge` · `Custom Layout Inflation` · `Firebase`
+</details>
+
+<details>
+<summary><b>💙 Flutter — click to expand</b></summary>
+<br/>
+
+`Bloc` · `GetX` · `Dio` · `Clean Architecture` · `Dart FFI` · `C/C++ native layer` · `Secure storage & obfuscation`
+</details>
+
+<details>
+<summary><b>🌐 Web, Backend & Design</b></summary>
+<br/>
+
+`Angular` · `PHP` · `MySQL` · `Docker` · `AdGuard Home` · `GitHub Pages` · `Adobe XD`
+</details>
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mohamedmzd0/safe-dns">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmzd0&repo=safe-dns&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mohamedmzd0/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedmzd0&repo=portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- Auto dark/light theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=mohamedmzd0&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohamedmzd0&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&rank_icon=github" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohamedmzd0&show_icons=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmzd0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmzd0&layout=compact&langs_count=8&theme=default&hide_border=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmzd0&layout=compact" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=mohamedmzd0&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=mohamedmzd0&theme=default&hide_border=true" />
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=mohamedmzd0" />
+</picture>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedmzd0&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedmzd0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mohamedmzd0/mohamedmzd0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedmzd0/mohamedmzd0/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mohamedmzd0/mohamedmzd0/output/github-snake.svg" />
+</picture>
+
+---
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+
+<i>Random dev joke 😄</i><br>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="README Jokes" />
+
+<br/><br/>
+
+<a href="https://www.instagram.com/zezo_eldeeb_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/m7medzez0/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+
+<sub>⭐ Feel free to fork, open issues, and send PRs — Happy coding!</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:1F6FEB,100:0D1117&height=120&section=footer" />
