@@ -46,7 +46,7 @@ object Mohamed : Developer {
 | | Project | What |
 |---|---|---|
 | 🏎️ | [**Street Sultan (سلطان الشوارع)**](https://play.google.com/store/apps/details?id=com.mohamedmzd.streetsultan) | Unity street racing game for Android — Arabic & English, Egyptian-voiced drivers |
-| 📿 | [**ذكر (Zikr)**](https://play.google.com/store/apps/details?id=com.mohamedabdelaziz.dailyquran) | Quran, azkar, prayer times, Qibla & tasbeeh — 10K+ downloads, ⭐ 4.5 |
+| 📿 | [**ذكر (Zikr)**](https://play.google.com/store/apps/details?id=com.mohamedabdelaziz.dailyquran) | Quran, azkar, prayer times, Qibla & tasbeeh — 20K+ users, ~1K daily active, ⭐ 4.5 |
 | 🛡️ | [**safe-dns**](https://github.com/mohamedmzd0/safe-dns) | Open-source DNS blocker for ads & harmful sites (AdGuard Home + Docker) |
 | 🛒 | **Mahalaty (محلاتي)** | Single & multi-vendor e-commerce app |
 | 🎤 | **Tech talks** | Presentations on Android & Flutter internals |
@@ -67,7 +67,7 @@ object Mohamed : Developer {
     <td align="center" width="50%">
       <img src="https://play-lh.googleusercontent.com/0siVZ4ewzoMr0vZmOMmERcRXkSOzgy1GdSxAW1tK4kUDasZ2xGKOYg_RNZmBScfXC3VjMkYJUvcCHfygqBm4=w120" width="72" alt="Zikr icon"/>
       <h3>📿 ذكر: أذكار وتسبيح ودعاء<br/>Zikr</h3>
-      <p>⭐ 4.5 · 10K+ downloads</p>
+      <p>⭐ 4.5 · 👥 20K+ users · 📈 ~1,000 daily active users</p>
       <p>Full Quran (Madani mushaf, offline) · morning &amp; evening azkar with counters · prayer times &amp; adhan · Qibla compass · tasbeeh · daily reminders.</p>
       <a href="https://play.google.com/store/apps/details?id=com.mohamedabdelaziz.dailyquran"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Zikr on Google Play"/></a>
     </td>
