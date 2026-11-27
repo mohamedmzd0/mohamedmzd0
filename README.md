@@ -46,7 +46,7 @@ object Mohamed : Developer {
 | | Project | What |
 |---|---|---|
 | 🏎️ | [**Street Sultan (سلطان الشوارع)**](https://play.google.com/store/apps/details?id=com.mohamedmzd.streetsultan) | Unity street racing game for Android — Arabic & English, Egyptian-voiced drivers |
-| 📿 | [**ذكر (Zikr)**](https://play.google.com/store/apps/details?id=com.mohamedabdelaziz.dailyquran) | Azkar app — morning & evening azkar, tasbeeh and duaa |
+| 📿 | [**ذكر (Zikr)**](https://play.google.com/store/apps/details?id=com.mohamedabdelaziz.dailyquran) | Quran, azkar, prayer times, Qibla & tasbeeh — 10K+ downloads, ⭐ 4.5 |
 | 🛡️ | [**safe-dns**](https://github.com/mohamedmzd0/safe-dns) | Open-source DNS blocker for ads & harmful sites (AdGuard Home + Docker) |
 | 🛒 | **Mahalaty (محلاتي)** | Single & multi-vendor e-commerce app |
 | 🎤 | **Tech talks** | Presentations on Android & Flutter internals |
@@ -65,12 +65,29 @@ object Mohamed : Developer {
       <a href="https://play.google.com/store/apps/details?id=com.mohamedmzd.streetsultan"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Street Sultan on Google Play"/></a>
     </td>
     <td align="center" width="50%">
-      <h3>📿 ذكر<br/>Zikr</h3>
-      <p>Azkar app — morning &amp; evening azkar, tasbeeh counter and daily duaa.</p>
+      <img src="https://play-lh.googleusercontent.com/0siVZ4ewzoMr0vZmOMmERcRXkSOzgy1GdSxAW1tK4kUDasZ2xGKOYg_RNZmBScfXC3VjMkYJUvcCHfygqBm4=w120" width="72" alt="Zikr icon"/>
+      <h3>📿 ذكر: أذكار وتسبيح ودعاء<br/>Zikr</h3>
+      <p>⭐ 4.5 · 10K+ downloads</p>
+      <p>Full Quran (Madani mushaf, offline) · morning &amp; evening azkar with counters · prayer times &amp; adhan · Qibla compass · tasbeeh · daily reminders.</p>
       <a href="https://play.google.com/store/apps/details?id=com.mohamedabdelaziz.dailyquran"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Zikr on Google Play"/></a>
     </td>
   </tr>
 </table>
+
+<details open>
+<summary><b>📿 ذكر — screenshots</b></summary>
+<br/>
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/gouZVe8fY8cVQ3OrGpNIm4L5zdd7SCbc7CyANbBl08Dgkn2OcPnQ6wheav8ZNU1OVT3uau9RCgobzM0INOxSeq4=w300" width="150" alt="Zikr screenshot 1"/>
+  <img src="https://play-lh.googleusercontent.com/bpgihjW8MHi4r9uzTiLO2s7yT8S-FDfu1SnAFIMJ3KetPbIyiz3Uiu_GFVXgaKIN-sCSbYAbzpTOWax8yU60qfo=w300" width="150" alt="Zikr screenshot 2"/>
+  <img src="https://play-lh.googleusercontent.com/dtkNSciC9GK9xKsmbg48dslTwQOARXvRWzQ_0kBfTyusFdbTOYvNjC8HUyHdR5y0XPjKkIRDLwqah0Ttc7o0I6c=w300" width="150" alt="Zikr screenshot 3"/>
+  <img src="https://play-lh.googleusercontent.com/39lZ7ofGkqmc8BnAbA8RRvkz8548QCkwAV-chjZ-PKLwpNWZ4FjZcvNTCfrNOKm65xa9tET1xC9dc_u35EqC=w300" width="150" alt="Zikr screenshot 4"/>
+  <img src="https://play-lh.googleusercontent.com/0SpOhHy9uHNBuOWkqjVgzejb1o4sESFlhbBCEQo__FhAukK1YB0w4qM1x7M0CfLhdMnN4I1lax81b55408z4Lg=w300" width="150" alt="Zikr screenshot 5"/>
+  <img src="https://play-lh.googleusercontent.com/scseEWzwVn4eLAqvDBNnw_cgudOXpd5RywHAJG578leZgzEC-Lpcu4aim9weKkAnpLWpTHAT1kle9w-DLLFRrqA=w300" width="150" alt="Zikr screenshot 6"/>
+  <img src="https://play-lh.googleusercontent.com/kimwFwnWjS29XcWEJDf_P5iuEyAOBxqzckJUdUHVa0wDbZqUrMrFaRxqguMgnUcakZlcsUCvuasWTRzye0fRHw=w300" width="150" alt="Zikr screenshot 7"/>
+  <img src="https://play-lh.googleusercontent.com/GOggsMfy24603M5h8TRF4rrdhAFsF0EkQF18XR0COtKKJR4XFil4Sa2cQxtOrp1_amUA-Ry6DT_mdAFI84fZfw=w300" width="150" alt="Zikr screenshot 8"/>
+</p>
+</details>
 
 </div>
 
