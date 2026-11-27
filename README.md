@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=6%2B+years+building+native+Android+apps;Flutter+with+Bloc%2C+GetX+%26+Clean+Architecture;Hardening+apps+with+Dart+FFI+%2B+C%2B%2B;Founder+%40+Kodly+%E2%80%94+mobile+%26+web+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=6%2B+years+building+native+Android+apps;Flutter+with+Bloc%2C+GetX+%26+Clean+Architecture;Hardening+apps+with+Dart+FFI+%2B+C%2B%2B;Shipping+my+own+apps+%26+games+on+Google+Play" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/mohamedabdelazizeldeeb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -45,10 +45,34 @@ object Mohamed : Developer {
 
 | | Project | What |
 |---|---|---|
-| 🚀 | **Kodly** | My software startup — mobile & web apps for businesses |
+| 🏎️ | [**Street Sultan (سلطان الشوارع)**](https://play.google.com/store/apps/details?id=com.mohamedmzd.streetsultan) | Unity street racing game for Android — Arabic & English, Egyptian-voiced drivers |
+| 📿 | [**ذكر (Zikr)**](https://play.google.com/store/apps/details?id=com.mohamedabdelaziz.dailyquran) | Azkar app — morning & evening azkar, tasbeeh and duaa |
 | 🛡️ | [**safe-dns**](https://github.com/mohamedmzd0/safe-dns) | Open-source DNS blocker for ads & harmful sites (AdGuard Home + Docker) |
 | 🛒 | **Mahalaty (محلاتي)** | Single & multi-vendor e-commerce app |
 | 🎤 | **Tech talks** | Presentations on Android & Flutter internals |
+
+---
+
+### 📱 My Apps on Google Play
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏎️ Street Sultan<br/>سلطان الشوارع</h3>
+      <p>Street racing game built with Unity — real cars, 15 level challenges, Arabic &amp; English with Egyptian-voiced drivers.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.mohamedmzd.streetsultan"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Street Sultan on Google Play"/></a>
+    </td>
+    <td align="center" width="50%">
+      <h3>📿 ذكر<br/>Zikr</h3>
+      <p>Azkar app — morning &amp; evening azkar, tasbeeh counter and daily duaa.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.mohamedabdelaziz.dailyquran"><img src="https://img.shields.io/badge/Google_Play-Download-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get Zikr on Google Play"/></a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
